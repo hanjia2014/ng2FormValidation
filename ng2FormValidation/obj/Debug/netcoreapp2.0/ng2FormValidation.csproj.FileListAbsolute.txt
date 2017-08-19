@@ -1,0 +1,11 @@
+c:\Projects\ng2FormValidation\ng2FormValidation\bin\Debug\netcoreapp2.0\ng2FormValidation.deps.json
+c:\Projects\ng2FormValidation\ng2FormValidation\bin\Debug\netcoreapp2.0\ng2FormValidation.runtimeconfig.json
+c:\Projects\ng2FormValidation\ng2FormValidation\bin\Debug\netcoreapp2.0\ng2FormValidation.runtimeconfig.dev.json
+c:\Projects\ng2FormValidation\ng2FormValidation\bin\Debug\netcoreapp2.0\ng2FormValidation.dll
+c:\Projects\ng2FormValidation\ng2FormValidation\bin\Debug\netcoreapp2.0\ng2FormValidation.pdb
+c:\Projects\ng2FormValidation\ng2FormValidation\obj\Debug\netcoreapp2.0\ng2FormValidation.csprojResolveAssemblyReference.cache
+c:\Projects\ng2FormValidation\ng2FormValidation\obj\Debug\netcoreapp2.0\ng2FormValidation.csproj.CoreCompileInputs.cache
+c:\Projects\ng2FormValidation\ng2FormValidation\obj\Debug\netcoreapp2.0\ng2FormValidation.AssemblyInfoInputs.cache
+c:\Projects\ng2FormValidation\ng2FormValidation\obj\Debug\netcoreapp2.0\ng2FormValidation.AssemblyInfo.cs
+c:\Projects\ng2FormValidation\ng2FormValidation\obj\Debug\netcoreapp2.0\ng2FormValidation.dll
+c:\Projects\ng2FormValidation\ng2FormValidation\obj\Debug\netcoreapp2.0\ng2FormValidation.pdb

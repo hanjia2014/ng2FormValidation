@@ -12542,11 +12542,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\Projects\\ng2FormValidation\\ng2FormValidation\\ng2FormValidation.csproj",
+      "projectUniqueName": "C:\\Projects\\ng2FormValidation\\ng2FormValidation\\ng2FormValidation.csproj",
       "projectName": "ng2FormValidation",
-      "projectPath": "c:\\Projects\\ng2FormValidation\\ng2FormValidation\\ng2FormValidation.csproj",
+      "projectPath": "C:\\Projects\\ng2FormValidation\\ng2FormValidation\\ng2FormValidation.csproj",
       "packagesPath": "C:\\Users\\datacom\\.nuget\\packages\\",
-      "outputPath": "c:\\Projects\\ng2FormValidation\\ng2FormValidation\\obj\\",
+      "outputPath": "C:\\Projects\\ng2FormValidation\\ng2FormValidation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
